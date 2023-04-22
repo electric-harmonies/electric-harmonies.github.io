@@ -8,8 +8,8 @@ config :phoenix_markdown, :earmark, %{
 }
 
 config :mery_claire, :blog_global,
-  blog_title: "MeryClaire",
-  blog_description: "A static blog generator"
+  blog_title: "Electric Harmonies",
+  blog_description: "Unlock the secrets of the electric soundscapes"
 
 config :mery_claire, :folders,
   posts: "./_posts",
