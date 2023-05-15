@@ -4,13 +4,7 @@ defmodule MeryClaire.Application do
 
   @impl true
   def start(_type, _args) do
-    dirs = [
-      Settings.assets(),
-      Settings.templates(),
-      Settings.posts(),
-      Settings.scss(),
-      Settings.assets()
-    ]
+    dirs = [Settings.assets(), Settings.templates(), Settings.posts(), Settings.scss()]
 
     children = [
       {Plug.Cowboy, scheme: :http, plug: MeryClaire.StaticServer, options: [port: 4000]},

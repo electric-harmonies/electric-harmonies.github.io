@@ -13,8 +13,8 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #111;
-  background-color: #fdfdfd;
+  color: #FDFDFD;
+  background-color: #323232;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -89,14 +89,14 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #4499CC;
+  color: #ffaa00;
   text-decoration: none;
 }
 a:visited {
-  color: #4499CC;
+  color: #ffaa00;
 }
 a:hover {
-  color: #111;
+  color: #FDFDFD;
   text-decoration: underline;
 }
 .social-media-list a:hover {
@@ -182,7 +182,7 @@ pre > code {
   width: 16px;
   height: 16px;
   display: inline-block;
-  fill: #828282;
+  fill: #FDFDFD;
   padding-right: 5px;
   vertical-align: text-top;
 }

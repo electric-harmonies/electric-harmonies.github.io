@@ -1,0 +1,25 @@
+---
+title: An introduction 
+tag: static_site_generator 
+date: 2023-04-09
+abstract: Who am I and why I write this blog
+---
+# An introduction
+
+I am a programmer and like many others, I have a passion for music both as a listener and as a musician (mostly a wannabe). I played when I was around twenty years old as a self-taught keyboardist in various bands in the city. Blues, rock, ska bands played music with bass, drums, guitar, and keyboards, sometimes even a saxophone and a trombone. During those years, I spent many evenings listening to other more skilled musicians to study their style, admire their equipment (I loved the Korg M1 but couldn't afford it). But when I listened, I only listened to the keyboardist. It was a kind of obsession. I didn't listen to the music for the pleasure of the song as a whole but extracted the keyboardist's played part to understand how it worked, what sounds and melodies he used.
+
+I immediately say that I have never been a good keyboardist, starting at a late age makes things more difficult, but I learned something, something that remained inside me for 25 years: a silent bug. Years in which I always listened to a lot of music, very varied, sometimes sophisticated, often indie but also mainstream, and in these years, I managed to listen to it as a whole. I was no longer interested only in synths and keyboards but in the entire song.
+
+I am a programmer, and like many others, I have a passion for music, both as a listener and a musician (mostly a wannabe). I played keyboards in various bands around the city when I was in my twenties, mostly self-taught. We played blues, rock, ska, music with bass, drums, guitar, and keyboards, and sometimes even a saxophone or a trombone. During those years, I spent many evenings listening to other, much more talented musicians to study their style and admire their equipment (I loved the Korg M1 but couldn't afford it). However, when I listened, I only focused on the keyboardist. It was an obsession, and I didn't listen to the music for the pleasure of the song as a whole, but I extracted the part played by the keyboardist to understand how it worked, what sounds were used, what melodies...
+
+I must say that I was never a great keyboardist. Starting at a late age makes things more difficult, but I did learn something, something that has remained within me for 25 years: a silent bug. During those years, I continued to listen to a lot of music, sometimes sophisticated, often indie, but also mainstream. And during these years, I was able to listen to it as a whole, and I was no longer interested only in synthesizers and keyboards, but in the entire song.
+
+Then came the lockdown, and I was stuck at home, unable to go out and dedicate time to friends, hobbies, or sports. And one day, in early spring, the bug resurfaced, and one evening it suggested that I revisit the world of synthesizers and electronic keyboards, and everything started again.
+
+Things have changed since 25 years ago, but I rediscovered many of the synths that were popular in the late 90s, and the real discovery was electronic music. Although it is everywhere, I knew little about it because, as a young snob, electronic music was programmed rather than played, and at the time, that wasn't acceptable. But with today's wisdom and the awareness that I will never become a real keyboardist, being able to make pleasing sounds with a computer or a groove box is something I found interesting and, above all, fun.
+
+Once Pandora's box was opened, I found a world I didn't know existed, a world where few of my stalwarts remained stable, but I learned a lot, became passionate about sounds, synths, and even developed GAS (gear acquisition syndrome). I bought and sold many things just to try them, understand them, and decide if they were for me. Then I started listening to new music, techno, ambient, minimal house, and many genres I didn't know existed or that I didn't like, but today I listen to them with a different ear, more interested and mature. I read about the history of electronic music, its origins, in which the Italians once again played a very important role.
+
+I started producing a few of my pieces, just for the pleasure of doing it and listening to them from time to time, for the pleasure of programming a Digitakt and turning the knobs during playback. I discovered software like Ableton, which offers infinite (perhaps too many) possibilities. I discovered the DAWless world, the influencers presenting new products, the live jams on YouTube, the #jamuary, contests, MPC samplings, modular synthesizers (which I'm trying to stay away from), vintage synthesizers that are sold for a lot of money (and to think that years ago, I brought one to the landfill).
+
+In this blog, I want to talk about this, electronic music, both from the point of view of those who produce it and those who listen to it. Without pretending to be
