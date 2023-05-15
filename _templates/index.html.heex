@@ -1,13 +1,12 @@
-<h1>Post list</h1>
-<div class="home">
+<div class="container">
 
 
 <ul class="post-list">
 
   <%= for p <- posts do %>
-  <li><span class="post-meta"><%= p[:date] %></span>
+  <li><span class="post-date"><%= p[:date] %></span>
     <h3>
-      <a class="post-link" href="<%= p[:url] %>">
+      <a class="post-title" href="<%= p[:url] %>">
         <%= p[:title] %>
       </a>
     </h3>

@@ -4,7 +4,6 @@ tag: static_site_generator
 date: 2023-04-09
 abstract: Who am I and why I write this blog
 ---
-# An introduction
 
 I am a programmer and like many others, I have a passion for music both as a listener and as a musician (mostly a wannabe). I played when I was around twenty years old as a self-taught keyboardist in various bands in the city. Blues, rock, ska bands played music with bass, drums, guitar, and keyboards, sometimes even a saxophone and a trombone. During those years, I spent many evenings listening to other more skilled musicians to study their style, admire their equipment (I loved the Korg M1 but couldn't afford it). But when I listened, I only listened to the keyboardist. It was a kind of obsession. I didn't listen to the music for the pleasure of the song as a whole but extracted the keyboardist's played part to understand how it worked, what sounds and melodies he used.
 
